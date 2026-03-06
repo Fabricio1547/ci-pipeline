@@ -21,13 +21,4 @@
     "eslint": "^8.57.0",
     "jest": "^29.7.0"
   }
-  {
-  "name": "ci-pipeline",
-  "version": "1.0.0",
-  "scripts": {
-    "lint": "echo lint ok",
-    "test": "echo test ok",
-    "build": "echo build ok"
-  }
-}
 }
